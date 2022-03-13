@@ -143,13 +143,7 @@ class List:
         else:
             return False
         
-list = List()
-list.insertAtBeginning("arun")
-list.insertAtEnd("abi")
 
-list.insertAtPosition(2, "elakiya")
-list.reverse()
-print(list)
 
 
 
