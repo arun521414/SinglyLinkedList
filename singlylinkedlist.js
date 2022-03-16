@@ -130,10 +130,7 @@ class List{
      
 }
 
-var list = new List();
-list.insertAtBeginning("arun")
-list.insertAtBeginning("elakiya")
-list.display()
+
 
 
 
